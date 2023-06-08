@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>View</title>
+</head>
+<body>
+<!--<embed src= "output1.pdf" width="800px" height="2100px" />-->
+<!--<embed src= "General_desc.txt" width="800px" height="2100px" />-->
+{% if name %}
+<h1>hello {{ name }}</h1>
+{% endif %}
+<div>hello!<embed src= {{name}}"/output1.pdf" width="800px" height="2100px" /></div>
+
+
+<script>
+    var loc = window.location.pathname;
+    var dir = loc.substring(0,loc.lastIndexOf('/'));
+    console.log(dir);
+</script>
+</body>
+</html>

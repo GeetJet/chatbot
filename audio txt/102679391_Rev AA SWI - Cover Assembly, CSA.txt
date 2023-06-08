@@ -1,0 +1,121 @@
+SWI - COVER ASSEMBLY, CSA
+
+Introduction
+
+The objective of this SWI is to provide the step necessary to install the CSA Cover kits 101730540 on to the CSA Vx Spectra
+
+step 1 
+Apply small amount of Loctite 222 at the female screw threads for the 6 cover brackets on the venturi and assemble the brackets onto the venturi at the location as shown in the image using a 5/16 T-Allen Key. The purple bracket is PN 101346868. The brown bracket is PN 101715523. The screw PN is 100425408 . Check the quality of the thread for the screw 100425408 before assembling.
+
+End of page 1 . Moving to the next page . Make sure you can see page 2 <silence msec="8000"/>
+
+step 2 
+Prepare the thermowell cover (PN 101738853), 2 brackets (101519753) and 4 screws (PN 101348944). 
+Pre-assemble the 2 brackets to the thermowell cover using 1 screw each as shown in the image using 5mm T-Allen Key. 
+*Apply Loctite 222 on the female thread of the nut on the bracket* 
+Then, assemble the 2 brackets along with the thermowell cover onto the venturi as shown in the image using 5mm T-Allen Key. 
+*Apply Loctite 222 on the female thread of the venturi* 
+Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover 
+Check the quality of the screws to ensure that the thread and head that they are in good quality
+3 Prepare the source cover (PN 101346671), 1 bracket (101519760) and 2 screws (PN 101348944) 
+Assemble the bracket with 1 screw onto it using 5mm T- Allen Key as shown in the picture.
+ *Apply a small amount of Loctite 222 on the female thread of the venturi* 
+Assemble the source cover onto the bracket using 5mm T-Allen Key as shown in the picture.
+ *Apply a small amount of Loctite 222 on the female thread of the nut on the bracket*
+
+
+End of page 2 . Moving to the next  page . Make sure you can see  page 3  <silence msec="8000"/>
+
+
+Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover 
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+4 Prepare the right side cover (PN 101732843) and 2 screws (PN 101348944)
+ Apply loctite 222 on the female threads of the cover brackets (PN 101715523) as indicated in brown colour as shown in the picture. 
+Tighten the side cover with 2 screws using 5mm T-Allen Key as shown in picture. 
+Check the quality of the cover to ensure that there is no physical damages 
+or discolouration on the cover
+ Check the quality of the screws to ensure that the thread and head that they are in good quality
+ 5 Prepare the right instrumentation cover (PN 101732835) 
+and 3 screws (PN 101348944) Apply loctite 222 on all 3 female threads
+ where the screws will be engaged (2 on the right side cover (PN 101732843)
+ and 1 on the bracket (PN 101346868)) Tighten the right instrumentation cover using 5mm T-Allen Key as shown in picture.
+ Check the quality of the cover to ensure that there is no physical damages
+ or discolouration on the cover 
+Check the quality of the screws to ensure that the thread and head that they are in good quality
+
+End of page 3. Scrolling down to the next step. <silence msec="8000"/>
+
+step 6
+ Prepare the bracket (PN 101519758) and 2 screws (PN 101348944).
+Apply loctite 222 on the 2 female threads where the screws will be engaged on the venturi.
+Tighten the bracket to the venturi using 5mm T-Allen Key as shown in picture.
+
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+7 Prepare the left side cover (PN 101732848), bracket (PN 101519747), left protection cover (PN 101346912) and 3 screws (PN 101348944).
+ Apply loctite 222 on the 3 female threads where the screws will be engaged on the left side cover (PN 101732848).
+ Align the bracket to the left protection cover and to the left side cover and tighten the 3 screws 
+using 5mm T-Allen Key as shown in picture. Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover 
+Check the quality of the screws to ensure that the thread and head that they are in good quality
+
+
+End of page 4. Scrolling down to the next step.  <silence msec="8000"/>
+
+step 8 
+Prepare 2 screws (PN 101348944). 
+Apply small amount of Loctite 222 on the female thread on the 2 machined bracket (101346868) 
+highlighted in brown colour where the cover assembly from Step 7 will be attached to. Tighten the side cover with 2 screws using 5mm T-Allen Key as shown in picture. 
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+9 Prepare the DP Bended Plate (PN 101346815) and 1 screw (PN 101348944) 
+Apply small amount of Loctite 222 on the female thread on the bracket (PN 1013466868) on the venturi, 
+align the DP Bended Plate and tigthen the screw using 5mm T-Allen Key as shown in the picture.
+
+Check the quality of the plate to ensure that there is no physical damages or discolouration on the cover
+ Check the quality of the screws to ensure that the thread and head that they are in good quality
+
+
+End of page 5 . Moving to the next  page . please align to be able to see the top of  page 6  <silence msec="9000"/>
+
+step 10 
+Prepare the DP Cover (PN 101519749), brackets (2 x PN 101519753 and 1 x PN 101519747) and 4 screws (PN 101348944) 
+Apply small amount of Loctite 222 on the female thread on the brackets where the 4 screws will be assembled.
+ Align the brackets to the DP cover and tighren the 4 screws using 5mm T-Allen Key as shown in picture.
+
+Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover 
+Check the quality of the screws to ensure that the thread and head that they are in good quality
+
+
+End of page 6 . Moving to the next  page . Make sure you can see  page 7  <silence msec="8000"/>
+
+step 11
+ Prepare the Tubing Cover (PN 101732841) and 2 screws (PN 101348944) 
+Apply small amount of Loctite 222 on the female thread on the bracket (PN 101519747) on the cover assembly in Step 9
+Tighten the 2 screws using 5mm T-Allen Key as shown in the picture.
+
+Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+Take note of the small opening at the bottom of the tubing cover to ensure correct orientation.
+
+End of page 7.. Moving to the next  page . Make sure you can see  page 8  <silence msec="8000"/>
+
+step 12
+ Prepare 5 screws (PN 101348944). 
+Apply small amount of Loctite 222 on the 2 female thread on the venturi and on the 2 female thread on the bracket (PN 101519747)
+ and on the female thread on the DP bracket (PN 101519758) of the cover assembly from Step 7 
+Tighten the cover assembly from Step 11 with 4 screws using 5mm T-Allen Key as shown in the picture. 
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+13 Prepare the bracket (PN 101738858) and 2 screws (PN 101348944). 
+Apply small amount of Loctite 222 on the 2 female threads on the bracket (PN 101738858). 
+Tighten the 2 screws using 5mm T-Allen Key as shown in the picture.
+
+Check the quality of the screws to ensure that the thread and head that they are in good quality 
+14 Prepare the Front Cover (PN 101732839) and 6 screws (PN 101348944). 
+Apply small amount of Loctite 222 on the 6 female threads on the Front Cover (PN 101732839). 
+Tigthen the 6 screws using 5mm T-Allen Key AS shown in the picture.
+
+End of page 8.. Almost there Moving to the last page of this  .  <silence msec="8000"/>
+
+Check the quality of the cover to ensure that there is no physical damages or discolouration on the cover
+Check the quality of the screws to ensure that the thread and head that they are in good quality
+
+END OF STANDARD WORK INSTRUCTION
+

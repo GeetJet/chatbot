@@ -1,0 +1,8 @@
+__pycache__/
+chatbot.py
+db.sqlite3
+Dockerfile
+Generated Speech.mp3
+Mp3.py
+slbfaq.txt
+trolleyprocedure.txt
